@@ -13,8 +13,8 @@ body
   background: #dfd;
   width: 900px;
   margin: 10px auto 0px auto;}
-  
-h1, h2, h3, h4, h5, h6 
+
+h1, h2, h3, h4, h5, h6
 { color: #000;
   letter-spacing: 0em;
   padding: 0 0 5px 0;}
@@ -57,7 +57,7 @@ p
   padding-bottom: 17px;}
 
 blockquote
-{ margin: 20px 0; 
+{ margin: 20px 0;
   padding: 10px 20px 0 20px;
   border: 1px solid #E5E5DB;
   background: #FFF;}
@@ -68,7 +68,7 @@ ul
 ul li
 { list-style-type: none;
   background: url(bullet.png) no-repeat;
-  margin: 0 0 0 0; 
+  margin: 0 0 0 0;
   padding: 0 0 4px 25px;
   line-height: 1.5em;}
 
@@ -84,7 +84,7 @@ ol li
   margin-right: 10px;}
 
 .right
-{ float: right; 
+{ float: right;
   width: auto;
   margin-left: 10px;}
 
@@ -117,7 +117,7 @@ ol li
 
 #logo
 { width: 100%;
-  height: 78px;
+  height: 0px;
   background: transparent;
   color: #444;
   position: relative;
@@ -146,10 +146,10 @@ ol li
   border: 0;}
 
 .search
-{ color: #5D5D5D; 
-  border: 1px solid #BBB; 
-  width: 134px; 
-  padding: 4px; 
+{ color: #5D5D5D;
+  border: 1px solid #BBB;
+  width: 134px;
+  padding: 4px;
   font: 100% arial, sans-serif;}
 
 .form_settings
@@ -159,39 +159,39 @@ ol li
 { padding: 0 0 4px 0;}
 
 .form_settings span
-{ float: left; 
-  width: 200px; 
+{ float: left;
+  width: 200px;
   text-align: left;}
-  
+
 .form_settings input, .form_settings textarea
-{ padding: 5px; 
-  width: 299px; 
-  font: 100% arial; 
-  border: 1px solid #E5E5DB; 
-  background: #FFF; 
+{ padding: 5px;
+  width: 299px;
+  font: 100% arial;
+  border: 1px solid #E5E5DB;
+  background: #FFF;
   color: #47433F;}
-  
+
 .form_settings .submit
-{ font: 100% arial; 
-  border: 0; 
-  width: 99px; 
-  margin: 0 0 0 212px; 
+{ font: 100% arial;
+  border: 0;
+  width: 99px;
+  margin: 0 0 0 212px;
   height: 33px;
   padding: 2px 0 3px 0;
-  cursor: pointer; 
-  background: #EEE; 
+  cursor: pointer;
+  background: #EEE;
   color: #111;}
 
 .form_settings textarea, .form_settings select
-{ font: 100% arial; 
+{ font: 100% arial;
   width: 299px;}
 
 .form_settings select
 { width: 310px;}
 
 .form_settings .checkbox
-{ margin: 4px 0; 
-  padding: 0; 
+{ margin: 4px 0;
+  padding: 0;
   width: 14px;
   border: 0;
   background: none;}
@@ -202,7 +202,7 @@ ol li
   border-top: 1px solid #D9D5CF;
   border-bottom: 1px solid #FFF;
   margin: 0 0 20px 0;}
-  
+
 table
 { margin: 10px 0 30px 0;}
 
@@ -211,7 +211,7 @@ table tr th, table tr td
   color: #111;
   padding: 7px 4px;
   text-align: left;}
-  
+
 table tr td
 { background: #F8F8F8;
   color: #47433F;
