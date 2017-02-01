@@ -98,6 +98,7 @@ ol li
     border: 1px solid #777;
     position: relative;
     z-index: 20;
+    background: #defff4;
 }
 
 .accordion_headings
@@ -114,7 +115,6 @@ ol li
 .accordion_child
 {
     padding: 25px;
-    background: #defff4;
 }
 
 #footer p
@@ -127,7 +127,7 @@ ol li
     font-size: 80%;
 }
 
-#footer a, #footer a:hover
+#footer a, #footer a:hover, #HCB_comment_box a, #HCB_comment_box a:hover
 {
     color: #76786A;
     text-decoration: none;
