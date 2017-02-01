@@ -134,6 +134,13 @@ ol li
     border: 0;
 }
 
+#HCB_comment_box > h3
+{
+    height: 0;
+    padding: 0;
+    visibility: hidden;
+}
+
 .search
 {
     color: #5D5D5D;
