@@ -150,66 +150,6 @@ ol li
     font: 100% arial, sans-serif;
 }
 
-.form_settings
-{
-    margin: 15px 0 0 0;
-}
-
-.form_settings p
-{
-    padding: 0 0 4px 0;
-}
-
-.form_settings span
-{
-    float: left;
-    width: 200px;
-    text-align: left;
-}
-
-.form_settings input, .form_settings textarea
-{
-    padding: 5px;
-    width: 299px;
-    font: 100% 'Raleway', sans-serif;
-    border: 1px solid #dbe5e1;
-    background: #FFF;
-    color: #111;
-}
-
-.form_settings .submit
-{
-    font: 100% 'Raleway', sans-serif;
-    border: 0;
-    width: 99px;
-    margin: 0 0 0 212px;
-    height: 33px;
-    padding: 2px 0 3px 0;
-    cursor: pointer;
-    background: #EEE;
-    color: #111;
-}
-
-.form_settings textarea, .form_settings select
-{
-    font: 100% 'Raleway', sans-serif;
-    width: 299px;
-}
-
-.form_settings select
-{
-    width: 310px;
-}
-
-.form_settings .checkbox
-{
-    margin: 4px 0;
-    padding: 0;
-    width: 14px;
-    border: 0;
-    background: none;
-}
-
 table
 {
     margin: 10px 0 30px 0;
