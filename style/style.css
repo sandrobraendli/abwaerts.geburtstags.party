@@ -190,3 +190,9 @@ table.sbb tr td, table.sbb tr th, table.sbb input
     font-size:12px;
     text-align:left;
 }
+
+#comment-container
+{
+    /* Raleway has hard to read '+' sign */
+    font-family: Arial, Helvetica, sans-serif;
+}
